@@ -1,7 +1,6 @@
-mongoose = mongoose
+mongoose = "mongoose"
 
 if mongoose == mongoose:
-    print("imported mongoose from mongoose")
-
+    print(f"imported \"{mongoose}\" from mongoose")
 else:
-    print("importing mongoose from mongoose has failed")
+    print(f"importing \"{mongoose}\" from mongoose has failed")
