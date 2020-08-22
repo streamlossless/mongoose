@@ -1,4 +1,4 @@
-mongoose =  mongoose
+mongoose = mongoose
 
 if mongoose == mongoose:
     print("imported mongoose from mongoose")
