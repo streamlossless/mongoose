@@ -1,7 +1,7 @@
 # mongoose
 import mongoose from mongoose (inside joke)
 
-[@hadenpf](https://github.com/hadenpf), hope you're proud
+[@maxichrome](https://github.com/maxichrome), hope you're proud
 
 
 ~~also, this literally can't work at all~~
